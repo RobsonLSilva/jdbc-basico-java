@@ -10,7 +10,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/build-Robson%20Luiz-0e76a8?logo=linkedin&logoColor=white&label=By&labelColor=0e76a8">
 
   </a>
-  <a href="https://github.com/RobsonLSilva/jdbc-basico-java/blob/master/LICENSE.md">
+  <a href="https://github.com/RobsonLSilva/jdbc-basico-java/blob/main/LICENSE.md">
       <img alt="By Robson Luiz" src="https://img.shields.io/github/license/RobsonLSilva/jdbc-basico-java.svg?colorB=ff0000">
   </a> 
   
@@ -50,9 +50,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ## :clapper: Tela(s) <a name="telas"/></a>
 
-![Tela](https://github.com/RobsonLSilva/jdbc-basico-java/blob/master/assets/tabela_clientes.png)
+![Tela](https://github.com/RobsonLSilva/jdbc-basico-java/blob/main/assets/tabela_clientes.png)
 
-![Tela](https://github.com/RobsonLSilva/jdbc-basico-java/blob/master/assets/teste_crud.png)
+![Tela](https://github.com/RobsonLSilva/jdbc-basico-java/blob/main/assets/teste_crud.png)
+
 
 ## :memo: Licença <a name="licenca"/></a>
 
