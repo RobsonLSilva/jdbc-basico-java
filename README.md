@@ -17,15 +17,16 @@
 </p>
 
 <p align="center">
- <a href="#Objetivo">Objetivo</a> •
- <a href="#Pré-requisitos">Pré-requisitos</a> •
- <a href="#Licença">Licença</a> • 
- <a href="#Contato">Autor</a>
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#pre_requisitos">Pré-requisitos</a> •
+ <a href="#telas">Telas</a> •
+ <a href="#licenca">Licença</a> • 
+ <a href="#contato">Contato</a>
 </p>
 
 <hr>
 
-## :dart: Objetivo
+## :dart: Objetivo <a name="objetivo"/></a>
 <p>
 Servir de base ao aprendizado sobre persistência de dados utilizando a linguagem <strong>java</strong> em conjunto com a biblioteca <strong>JDBC</strong>.
 </p>
@@ -41,23 +42,23 @@ As quatro operações foram implementadas:
 </p>
 
 
-## :computer: Pré-requisitos
+## :computer: Pré-requisitos <a name="pre_requisitos"/></a>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [JDK](https://www.oracle.com/java/technologies/downloads/) e um banco de dados, aconselho a utilizar o [MySql](https://www.mysql.com/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) ou uma IDE como [Eclipse](https://www.eclipse.org/downloads/).
 
-## :clapper: Tela(s) <a name="-telas"/></a>
+## :clapper: Tela(s) <a name="telas"/></a>
 
 ![Tela](https://github.com/RobsonLSilva/jdbc-basico-java/blob/master/assets/tabela_clientes.png)
 
 ![Tela](https://github.com/RobsonLSilva/jdbc-basico-java/blob/master/assets/teste_crud.png)
 
-## :memo: Licença <a name="-licenca"/></a>
+## :memo: Licença <a name="licenca"/></a>
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## :email: Contato
+## :email: Contato <a name="contato"/></a>
 
 Robson Luiz - [GitHub](https://github.com/RobsonLSilva) - [LinkedIn](https://www.linkedin.com/in/robson-lsilva/) - **robson.silva333@etec.sp.gov.br**
 
