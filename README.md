@@ -24,7 +24,7 @@
  <a href="#contato">Contato</a>
 </p>
 
-<hr>
+---
 
 ## :dart: Objetivo <a name="objetivo"/></a>
 <p>
